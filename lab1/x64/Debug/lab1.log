@@ -1,0 +1,8 @@
+﻿  szablon.cpp
+C:\Users\zolty\OneDrive\Pulpit\laby pk3\lab1\szablon.cpp(94,26): warning C4305: "argument": obcięcie z "int" do "const T"
+          with
+          [
+              T=char
+          ]
+C:\Users\zolty\OneDrive\Pulpit\laby pk3\lab1\szablon.cpp(94,20): warning C4309: "argument": obcięcie stałej wartości
+  lab1.vcxproj -> C:\Users\zolty\OneDrive\Pulpit\laby pk3\lab1\x64\Debug\lab1.exe
