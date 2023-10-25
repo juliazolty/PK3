@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\zolty\OneDrive\Pulpit\laby pk3\lab2\lab2\main.cpp(132,20): error C2040: "firstRowT": "std::vector<int,std::allocator<int>> &"różni się w poziomach pośredników od "std::vector<int,std::allocator<int>>"
+C:\Users\zolty\OneDrive\Pulpit\laby pk3\lab2\lab2\main.cpp(133,7): error C2672: „std::transform”: nie znaleziono zgodnej przeciążonej funkcji
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\algorithm(2987,21): message : może to być „_OutIt std::transform(const _InIt1,const _InIt1,const _InIt2,_OutIt,_Fn)”
+C:\Users\zolty\OneDrive\Pulpit\laby pk3\lab2\lab2\main.cpp(133,7): message : "_OutIt std::transform(const _InIt1,const _InIt1,const _InIt2,_OutIt,_Fn)": oczekuje się 5 argumentów - dostarczono 2
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\algorithm(2987): message : zobacz deklarację „std::transform”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\algorithm(2966,21): message : lub       "_OutIt std::transform(const _InIt,const _InIt,_OutIt,_Fn)"
+C:\Users\zolty\OneDrive\Pulpit\laby pk3\lab2\lab2\main.cpp(133,7): message : "_OutIt std::transform(const _InIt,const _InIt,_OutIt,_Fn)": oczekuje się 4 argumentów - dostarczono 2
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\algorithm(2966): message : zobacz deklarację „std::transform”
+C:\Users\zolty\OneDrive\Pulpit\laby pk3\lab2\lab2\main.cpp(138,7): error C2672: „std::for_each”: nie znaleziono zgodnej przeciążonej funkcji
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\algorithm(228,18): message : może to być „_Fn std::for_each(_InIt,_InIt,_Fn)”
+C:\Users\zolty\OneDrive\Pulpit\laby pk3\lab2\lab2\main.cpp(138,7): message : "_Fn std::for_each(_InIt,_InIt,_Fn)": oczekuje się 3 argumentów - dostarczono 2
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\algorithm(228): message : zobacz deklarację „std::for_each”
